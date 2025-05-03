@@ -1,0 +1,25 @@
+NO ./src/textures/blue.xpm
+SO ./src/textures/pink.xpm
+WE ./src/textures/green.xpm
+EA ./src/textures/yellow.xpm
+
+F 255,102,178
+C 102,178,255
+
+
+     111
+    11011
+   1100011
+  110000011
+  100N00001
+1100000000011
+  100000001
+  110000011
+   1100011
+    11011
+      1
+
+1111
+1001
+1001
+1111

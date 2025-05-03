@@ -1,0 +1,13 @@
+NO ./src/textbgbfures/blue.xpm
+SO ./src/textures/pink.xpm
+WE ./src/textures/green.xpm
+EA ./src/textures/yellow.xpm
+
+C 255,210,140
+F 100,255,255
+
+111111
+100001
+10S01
+100001
+111111
