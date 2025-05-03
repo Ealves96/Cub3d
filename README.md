@@ -14,19 +14,12 @@ Cub3D est un projet graphique inspiré du célèbre jeu Wolfenstein 3D. Ce proje
 - 🎯 Raycasting pour le rendu 3D
 - 🗺️ Parsing de cartes personnalisées
 - 🎨 Textures pour les murs
-- 🎮 Contrôles de mouvement fluides
+- 🎮 Contrôles de mouvement
 - 🔄 Rotation de la caméra
 - 🎯 Détection des collisions
 
 ## 🛠️ Installation
 ```bash
-# Cloner le repository
-git clone [URL_DU_REPO]
-
-# Se déplacer dans le dossier du projet
-cd Cub3D
-
-# Compiler le projet
 make
 ```
 
